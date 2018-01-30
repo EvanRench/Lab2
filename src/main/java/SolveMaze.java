@@ -12,7 +12,7 @@ public class SolveMaze {
 
     /**
      * Implement your maze solving algorithm in the main method below.
-     *
+     * Does this work?
      * @param unused unused input arguments
      */
 
